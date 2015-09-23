@@ -1,5 +1,4 @@
-# example-projects
-existing projects to use as a guide
+# examplars
 
 #### ruby on rails
 [Coderwall](https://github.com/assemblymade/coderwall)  
