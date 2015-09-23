@@ -4,6 +4,7 @@
 [Coderwall](https://github.com/assemblymade/coderwall)  
 [Diaspora](https://github.com/diaspora/diaspora)  
 [Discourse](https://github.com/discourse/discourse)  
+[GitLab](https://github.com/gitlabhq/gitlabhq)  
 [Loomio](https://github.com/loomio/loomio)
 
 #### ember.js
