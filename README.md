@@ -1,4 +1,4 @@
-# examplars
+# links
 
 #### ruby on rails
 [Coderwall](https://github.com/assemblymade/coderwall)  
