@@ -31,3 +31,8 @@
 * [rspec_api_documentation](https://github.com/zipmark/rspec_api_documentation) 
 
 
+### Angular JS
+* [wReader (Chrome App)](https://github.com/GoogleChrome/wReader-app) 
+* [FoodMe](https://github.com/IgorMinar/foodme) 
+* [Angular App](https://github.com/angular-app/angular-app) 
+* [Angular Architecture](https://github.com/comsysto/angular-architecture) 
