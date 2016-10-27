@@ -36,3 +36,11 @@
 * [FoodMe](https://github.com/IgorMinar/foodme) 
 * [Angular App](https://github.com/angular-app/angular-app) 
 * [Angular Architecture](https://github.com/comsysto/angular-architecture) 
+
+
+### React
+* [admin-on-rest](https://github.com/marmelab/admin-on-rest) 
+* [SoundRedux](https://github.com/andrewngu/sound-redux) 
+* [Joust](https://github.com/HearthSim/Joust) 
+* [Wordpress](https://github.com/Automattic/wp-calypso) 
+* [Sentry](https://github.com/getsentry/sentry/tree/master/src/sentry/static/sentry/app)
