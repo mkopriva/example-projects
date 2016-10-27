@@ -44,3 +44,5 @@
 * [Joust](https://github.com/HearthSim/Joust) 
 * [Wordpress](https://github.com/Automattic/wp-calypso) 
 * [Sentry](https://github.com/getsentry/sentry/tree/master/src/sentry/static/sentry/app)
+* [and more...](https://news.ycombinator.com/item?id=12802121)
+
