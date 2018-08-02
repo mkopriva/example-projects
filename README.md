@@ -1,11 +1,15 @@
 # links
 
+## Web Apps
+
 #### ruby on rails
 * [Coderwall](https://github.com/assemblymade/coderwall)  
 * [Diaspora](https://github.com/diaspora/diaspora)  
 * [Discourse](https://github.com/discourse/discourse)  
 * [GitLab](https://github.com/gitlabhq/gitlabhq)  
 * [Loomio](https://github.com/loomio/loomio)
+* [Spree](https://github.com/spree/spree)
+* [refinerycms](https://github.com/refinery/refinerycms)
 
 #### ember.js
 * [Ghost](https://github.com/TryGhost/Ghost/tree/master/core/client/app)  
@@ -14,6 +18,25 @@
 
 #### node.js
 * [Ghost](https://github.com/TryGhost/Ghost)
+
+### Meteor
+* [reaction](https://github.com/reactioncommerce/reaction)
+
+### PHP
+* [woocommerce](https://github.com/woocommerce/woocommerce)
+* [PrestaShop](https://github.com/PrestaShop/PrestaShop)
+
+### Django
+* [oscar](https://github.com/django-oscar/django-oscar)
+
+--------------------------------------------------------------------------------
+
+## Books
+
+#### Go
+* [go-internals](https://github.com/teh-cmc/go-internals)
+
+--------------------------------------------------------------------------------
 
 ### CI
 * [Concourse](https://github.com/concourse/concourse) 
